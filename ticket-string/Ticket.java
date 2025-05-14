@@ -22,4 +22,4 @@ public class Ticket {
         System.out.println("Thank you for choosing us for booking your movie tickets");
         System.out.println("Enjoy your movie!!!");
     }
-}
+} 
