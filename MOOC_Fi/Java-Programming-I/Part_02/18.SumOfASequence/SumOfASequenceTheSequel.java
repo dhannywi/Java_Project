@@ -1,15 +1,14 @@
-
 import java.util.Scanner;
 
 public class SumOfASequenceTheSequel {
 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        Scanner scan = new Scanner(System.in);
         
         System.out.println("First number?");
-        int num1 = scanner.nextInt();
+        int num1 = scan.nextInt();
         System.out.println("Second number?");
-        int num2 = scanner.nextInt();
+        int num2 = scan.nextInt();
         
         int sum = 0;
         
