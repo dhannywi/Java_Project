@@ -1,6 +1,6 @@
 # Java Programming
 
-Coding exircises from (Java Programming) [https://java-programming.mooc.fi/] course by University of Helsinki.\
+Coding exircises from [Java Programming](https://java-programming.mooc.fi/) course by University of Helsinki.
 
 The course is divided into `Java Programming I` and `Java Programming II`topics including:
 * Part 01
